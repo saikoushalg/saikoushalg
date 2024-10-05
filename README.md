@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @saikoushalg
-- 👀 I’m interested in ... 
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on  ...
-- 📫 How to reach me  saikoushalg@gmail.com
+- 🌱 I’m currently learning LLMs , Distributed Systems , GO , Agentic Systems , Building AI Systems
+- 📫 How to reach me  saikoushalg@gmail.com 
 
 
 [![An image of @saikoushalg's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/saikoushalg)](https://holopin.io/@saikoushalg)
