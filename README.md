@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @saikoushalg
-- 🌱 I’m currently learning LLMs , Distributed Systems , GO , Agentic Systems , Building AI Systems
+- 🌱 I’m currently learning LLMs , Distributed Systems , golang, rust , Agentic Systems , Building AI Systems
 - 📫 How to reach me  saikoushalg@gmail.com 
 
 
